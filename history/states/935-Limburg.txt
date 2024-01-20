@@ -1,0 +1,28 @@
+state={
+	id=935
+	name="STATE_935"
+
+	history={
+		owner = LIM
+		add_core_of = LIM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			11562 3
+		}
+
+	}
+
+	provinces={
+		11562 
+	}
+	manpower=329482
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

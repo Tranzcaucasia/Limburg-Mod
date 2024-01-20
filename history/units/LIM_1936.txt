@@ -1,0 +1,21 @@
+#Create units
+division_template = {
+	name = "Limburgian Public Force"
+	division_names_group = "LIM_DIV_0_0"
+	regiments = {
+		infantry = { x = 0 y = 0}
+		infantry = { x = 0 y = 1}
+	}
+	support = {
+	}
+
+}
+
+#Spawn units
+units = {
+	division= {
+		name = "1st Limburgian Public Force"
+		location = 11562
+		division_template = "Limburgian Public Force"
+	}
+}

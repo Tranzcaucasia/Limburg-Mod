@@ -1,0 +1,17 @@
+version="1.13.6"
+tags={
+	"Map"
+	"Alternative History"
+	"Historical"
+	"National Focuses"
+	"Military"
+	"Balance"
+	"Fixes"
+	"Graphics"
+	"Gameplay"
+	"Events"
+}
+name="Limburg"
+picture="Thumbnail.png"
+supported_version="1.13.6"
+remote_file_id="3143104151"

@@ -1,0 +1,24 @@
+#Create units
+division_template = {
+	name = "Blud's really playing 1939"
+	division_names_group = "LIM_DIV_0_1"
+	regiments = {
+		artillery_brigade = { x = 0 y = 0}
+		artillery_brigade = { x = 0 y = 1}
+		artillery_brigade = { x = 0 y = 2}
+		artillery_brigade = { x = 0 y = 3}
+		artillery_brigade = { x = 0 y = 4}
+		artillery_brigade = { x = 1 y = 0}
+		artillery_brigade = { x = 1 y = 1}
+		artillery_brigade = { x = 1 y = 2}
+		artillery_brigade = { x = 1 y = 3}
+		artillery_brigade = { x = 1 y = 4}
+	}
+	support = {
+	}
+
+}
+
+#Spawn units
+units = {
+}

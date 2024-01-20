@@ -1,0 +1,171 @@
+spriteTypes = { 
+	##Icon For: Magnorf Eldus
+	SpriteType = { 
+		name = "bGteLWVE-600962"
+		texturefile = "gfx/interface/ideas/LIM/bGteLWVE-600962.dds"
+	}
+
+	##Icon For: Veetsk Bissma
+	SpriteType = { 
+		name = "IGbOAnZj-600963"
+		texturefile = "gfx/interface/ideas/LIM/IGbOAnZj-600963.dds"
+	}
+
+	##Icon For: Bekk von Holstaad
+	SpriteType = { 
+		name = "BZlGqYTe-600966"
+		texturefile = "gfx/interface/ideas/LIM/BZlGqYTe-600966.dds"
+	}
+
+	##Icon For: Dolkgang Trossma
+	SpriteType = { 
+		name = "rdnXxVyg-600968"
+		texturefile = "gfx/interface/ideas/LIM/rdnXxVyg-600968.dds"
+	}
+
+	##Icon For: Mantta Parsia
+	SpriteType = { 
+		name = "GoULZfzl-600969"
+		texturefile = "gfx/interface/ideas/LIM/GoULZfzl-600969.dds"
+	}
+
+	##Icon For: Burleen von Chukk
+	SpriteType = { 
+		name = "rdxTPYsA-600971"
+		texturefile = "gfx/interface/ideas/LIM/rdxTPYsA-600971.dds"
+	}
+
+	##Icon For: M. Van Beerun
+	SpriteType = { 
+		name = "VYgTZuri-600972"
+		texturefile = "gfx/interface/ideas/LIM/VYgTZuri-600972.dds"
+	}
+
+	##Icon For: Haag Grismaa
+	SpriteType = { 
+		name = "zpwflIbO-600975"
+		texturefile = "gfx/interface/ideas/LIM/zpwflIbO-600975.dds"
+	}
+
+	##Icon For: Sunaag Rickii
+	SpriteType = { 
+		name = "TjrJneVC-600976"
+		texturefile = "gfx/interface/ideas/LIM/TjrJneVC-600976.dds"
+	}
+
+	##Icon For: Tooni Blaar
+	SpriteType = { 
+		name = "lCrfUvhw-600977"
+		texturefile = "gfx/interface/ideas/LIM/lCrfUvhw-600977.dds"
+	}
+
+	##Icon For: Boris Joonsen
+	SpriteType = { 
+		name = "fipctmrb-600979"
+		texturefile = "gfx/interface/ideas/LIM/fipctmrb-600979.dds"
+	}
+
+	##Icon For: Niikla Stuurgen
+	SpriteType = { 
+		name = "kyNeosqi-600981"
+		texturefile = "gfx/interface/ideas/LIM/kyNeosqi-600981.dds"
+	}
+
+	##Icon For: Masstricht Wings
+	SpriteType = { 
+		name = "rtCfXlIx-1267"
+		texturefile = "gfx/interface/ideas/LIM/rtCfXlIx-1267.dds"
+	}
+
+	##Icon For: Swift Gunz - Limburg
+	SpriteType = { 
+		name = "ZzNcFYyV-1450"
+		texturefile = "gfx/interface/ideas/LIM/ZzNcFYyV-1450.dds"
+	}
+
+	##Icon For: Artillerija
+	SpriteType = { 
+		name = "JwfyvORz-1426"
+		texturefile = "gfx/interface/ideas/LIM/JwfyvORz-1426.dds"
+	}
+
+	##Icon For: Limburg Motors
+	SpriteType = { 
+		name = "HDRnWNYT-1480"
+		texturefile = "gfx/interface/ideas/LIM/HDRnWNYT-1480.dds"
+	}
+
+	##Icon For: Limburg Industrial Concern
+	SpriteType = { 
+		name = "LwAaIuQV-1469"
+		texturefile = "gfx/interface/ideas/LIM/LwAaIuQV-1469.dds"
+	}
+
+	##Icon For: Masstricht Refineries
+	SpriteType = { 
+		name = "IkXAORBw-1532"
+		texturefile = "gfx/interface/ideas/LIM/IkXAORBw-1532.dds"
+	}
+
+	##Icon For: Limburg Electronics
+	SpriteType = { 
+		name = "UVfOCeqs-1449"
+		texturefile = "gfx/interface/ideas/LIM/UVfOCeqs-1449.dds"
+	}
+
+	##Icon For: Rabb Domonikk
+	SpriteType = { 
+		name = "HynAGBdQ-600990"
+		texturefile = "gfx/interface/ideas/LIM/HynAGBdQ-600990.dds"
+	}
+
+	##Icon For: Olaaf Burleex
+	SpriteType = { 
+		name = "ZEfIvBsQ-600992"
+		texturefile = "gfx/interface/ideas/LIM/ZEfIvBsQ-600992.dds"
+	}
+
+	##Icon For: Kaanta Gadill
+	SpriteType = { 
+		name = "fkNqKXLe-600983"
+		texturefile = "gfx/interface/ideas/LIM/fkNqKXLe-600983.dds"
+	}
+
+	##Icon For: Verrta Zup
+	SpriteType = { 
+		name = "iJqnNHty-600984"
+		texturefile = "gfx/interface/ideas/LIM/iJqnNHty-600984.dds"
+	}
+
+	##Icon For: Ruudolv Heizz
+	SpriteType = { 
+		name = "WVBQKINS-600985"
+		texturefile = "gfx/interface/ideas/LIM/WVBQKINS-600985.dds"
+	}
+
+	##Icon For: Lidderp Voor
+	SpriteType = { 
+		name = "WkjCFsuv-600993"
+		texturefile = "gfx/interface/ideas/LIM/WkjCFsuv-600993.dds"
+	}
+
+	##Icon For: Paazer Blikreeg
+	SpriteType = { 
+		name = "fKEQhMkl-600998"
+		texturefile = "gfx/interface/ideas/LIM/fKEQhMkl-600998.dds"
+	}
+
+	##Icon For: Fillip Heerdort
+	SpriteType = { 
+		name = "gwMUEXLu-601004"
+		texturefile = "gfx/interface/ideas/LIM/gwMUEXLu-601004.dds"
+	}
+
+	##Icon For: Hodrick Voort
+	SpriteType = { 
+		name = "PgACFjQY-601006"
+		texturefile = "gfx/interface/ideas/LIM/PgACFjQY-601006.dds"
+	}
+
+ 
+ }
