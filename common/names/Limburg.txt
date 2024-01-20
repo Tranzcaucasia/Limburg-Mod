@@ -1,0 +1,18 @@
+LIM = {
+	male = {
+		names = {
+			"Male" 
+		}
+	}
+	female = {
+		names = {
+			"Female" 
+		}
+	}
+	surnames = {
+		"Person" 
+	}
+	callsigns = {
+		"Limburgian" 
+	}
+}

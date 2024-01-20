@@ -1,0 +1,8 @@
+LIM_DIV_0_1 = {	name = "Blud's really playing 1939"
+	for_countries = { LIM }
+	can_use = { always = yes }
+	division_types = { 
+		"artillery_brigade" }
+	}
+	fallback_name = "%d. Blud's really playing 1939"
+}

@@ -1,0 +1,343 @@
+characters = {	magnorf_eldus = {
+		name = magnorf_eldus
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/bGteLWVE-600962.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = magnorf_eldus
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { democratic_crusader}
+		}
+	}
+	veetsk_bissma = {
+		name = veetsk_bissma
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/IGbOAnZj-600963.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = veetsk_bissma
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { fascist_demagogue}
+		}
+	}
+	bekk_von_holstaad = {
+		name = bekk_von_holstaad
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/BZlGqYTe-600966.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = bekk_von_holstaad
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { communist_revolutionary}
+		}
+	}
+	dolkgang_trossma = {
+		name = dolkgang_trossma
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/rdnXxVyg-600968.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = dolkgang_trossma
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { silent_workhorse}
+		}
+	}
+	mantta_parsia = {
+		name = mantta_parsia
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/GoULZfzl-600969.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = mantta_parsia
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { propaganda_expert}
+		}
+	}
+	burleen_von_chukk = {
+		name = burleen_von_chukk
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/rdxTPYsA-600971.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = burleen_von_chukk
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { smooth_talking_charmer}
+		}
+	}
+	m_van_beerun = {
+		name = m_van_beerun
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/VYgTZuri-600972.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = m_van_beerun
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { backroom_backstabber}
+		}
+	}
+	haag_grismaa = {
+		name = haag_grismaa
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/zpwflIbO-600975.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = haag_grismaa
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { captain_of_industry}
+		}
+	}
+	sunaag_rickii = {
+		name = sunaag_rickii
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/TjrJneVC-600976.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = sunaag_rickii
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { armaments_organizer}
+		}
+	}
+	tooni_blaar = {
+		name = tooni_blaar
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/lCrfUvhw-600977.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = tooni_blaar
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { fortification_engineer}
+		}
+	}
+	boris_joonsen = {
+		name = boris_joonsen
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/fipctmrb-600979.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = boris_joonsen
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { war_industrialist}
+		}
+	}
+	niikla_stuurgen = {
+		name = niikla_stuurgen
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/kyNeosqi-600981.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = niikla_stuurgen
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { princess_of_terror}
+		}
+	}
+	rabb_domonikk = {
+		name = rabb_domonikk
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/HynAGBdQ-600990.dds"
+			}
+		}
+		advisor = {
+			slot = theorist
+			ledger = army
+			idea_token = rabb_domonikk
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { military_theorist}
+		}
+	}
+	olaaf_burleex = {
+		name = olaaf_burleex
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/ZEfIvBsQ-600992.dds"
+			}
+		}
+		advisor = {
+			slot = theorist
+			ledger = air
+			idea_token = olaaf_burleex
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { air_warfare_theorist}
+		}
+	}
+	kaanta_gadill = {
+		name = kaanta_gadill
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/fkNqKXLe-600983.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = kaanta_gadill
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_chief_offensive_2}
+		}
+	}
+	verrta_zup = {
+		name = verrta_zup
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/iJqnNHty-600984.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = verrta_zup
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_chief_defensive_2}
+		}
+	}
+	ruudolv_heizz = {
+		name = ruudolv_heizz
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/WVBQKINS-600985.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = ruudolv_heizz
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { air_chief_reform_2}
+		}
+	}
+	lidderp_voor = {
+		name = lidderp_voor
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/WkjCFsuv-600993.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			ledger = army
+			idea_token = lidderp_voor
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_infantry_2}
+		}
+	}
+	paazer_blikreeg = {
+		name = paazer_blikreeg
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/fKEQhMkl-600998.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			ledger = army
+			idea_token = paazer_blikreeg
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_armored_3}
+		}
+	}
+	fillip_heerdort = {
+		name = fillip_heerdort
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/gwMUEXLu-601004.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			ledger = army
+			idea_token = fillip_heerdort
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_regrouping_2}
+		}
+	}
+	hodrick_voort = {
+		name = hodrick_voort
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/LIM/PgACFjQY-601006.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			ledger = army
+			idea_token = hodrick_voort
+			allowed = {
+				original_tag = LIM
+			}
+			traits = { army_logistics_2}
+		}
+	}
+}

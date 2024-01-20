@@ -1,0 +1,128 @@
+characters = {
+#Create country leader - Wilhelmina of Limburg
+wilhelmina_of_limburg = {
+	name = wilhelmina_of_limburg
+	portraits = {
+		civilian = {
+			#Custom image for Wilhelmina of Limburg
+			large = "/gfx/leaders/LIM/PAXrWnhl-600932.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = despotism
+		traits = {  inexperienced_monarch }
+	}
+}
+
+#Create country leader - Generic Democratic Leader (Cringe)
+genericdemocraticleadercringe = {
+	name = genericdemocraticleadercringe
+	portraits = {
+		civilian = {
+			#Custom image for Generic Democratic Leader (Cringe)
+			large = "/gfx/leaders/LIM/kCxcjDyM-9404.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = liberalism
+		traits = {  }
+	}
+}
+
+#Create country leader - Johan Paul van Limburg Stirum
+johan_paul_van_limburg_stirum = {
+	name = johan_paul_van_limburg_stirum
+	portraits = {
+		civilian = {
+			#Custom image for Johan Paul van Limburg Stirum
+			large = "/gfx/leaders/LIM/YtndPIzb-600921.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {  nazi_sympathizer }
+	}
+}
+
+#Create country leader - Louis de Visser
+louis_de_visser = {
+	name = louis_de_visser
+	portraits = {
+		civilian = {
+			#Custom image for Louis de Visser
+			large = "/gfx/leaders/LIM/MdzWKRBP-600929.dds"
+		}
+	}
+	country_leader = {
+		expire = "1965.1.1"
+		ideology = stalinism
+		traits = {  staunch_stalinist industry_reformer }
+	}
+}
+
+#Create military leader - Heergon Manning
+	heergon_manning = {
+		name = "heergon_manning"
+		portraits = {
+			army = {
+				#Custom images for Heergon Manning
+				large = "/gfx/leaders/LIM/heergon_manning-10138.dds"
+				small = "/gfx/interface/ideas/LIM/heergon_manning-10138.dds"
+			}
+		}
+		corps_commander = {
+			traits = { thorough_planner }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
+		legacy_id = 131166590
+		}
+	}
+
+#Create military leader - Peshtaas Vuurik
+	peshtaas_vuurik = {
+		name = "peshtaas_vuurik"
+		portraits = {
+			army = {
+				#Custom images for Peshtaas Vuurik
+				large = "/gfx/leaders/LIM/peshtaas_vuurik-10082.dds"
+				small = "/gfx/interface/ideas/LIM/peshtaas_vuurik-10082.dds"
+			}
+		}
+		field_marshal = {
+			traits = { defensive_doctrine unyielding_defender }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 4
+			planning_skill = 2
+			logistics_skill = 2
+		legacy_id = 131166591
+		}
+	}
+
+#Create military leader - Yurvvik Beurin
+	yurvvik_beurin = {
+		name = "yurvvik_beurin"
+		portraits = {
+			army = {
+				#Custom images for Yurvvik Beurin
+				large = "/gfx/leaders/LIM/yurvvik_beurin-9564.dds"
+				small = "/gfx/interface/ideas/LIM/yurvvik_beurin-9564.dds"
+			}
+		}
+		corps_commander = {
+			traits = { armor_officer }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		legacy_id = 131166592
+		}
+	}
+}

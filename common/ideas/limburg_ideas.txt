@@ -1,0 +1,230 @@
+ideas = {
+	mobilization_laws = {
+}
+	economy = {
+}
+	political_advisor = {
+		magnorf_eldus = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { democratic_crusader}
+			picture = "bGteLWVE-600962"
+		}
+		veetsk_bissma = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { fascist_demagogue}
+			picture = "IGbOAnZj-600963"
+		}
+		bekk_von_holstaad = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { communist_revolutionary}
+			picture = "BZlGqYTe-600966"
+		}
+		dolkgang_trossma = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { silent_workhorse}
+			picture = "rdnXxVyg-600968"
+		}
+		mantta_parsia = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { propaganda_expert}
+			picture = "GoULZfzl-600969"
+		}
+		burleen_von_chukk = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { smooth_talking_charmer}
+			picture = "rdxTPYsA-600971"
+		}
+		m_van_beerun = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { backroom_backstabber}
+			picture = "VYgTZuri-600972"
+		}
+		haag_grismaa = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { captain_of_industry}
+			picture = "zpwflIbO-600975"
+		}
+		sunaag_rickii = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { armaments_organizer}
+			picture = "TjrJneVC-600976"
+		}
+		tooni_blaar = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { fortification_engineer}
+			picture = "lCrfUvhw-600977"
+		}
+		boris_joonsen = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { war_industrialist}
+			picture = "fipctmrb-600979"
+		}
+		niikla_stuurgen = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { princess_of_terror}
+			picture = "kyNeosqi-600981"
+		}
+}
+	tank_manufacturer = {
+}
+	naval_manufacturer = {
+}
+	aircraft_manufacturer = {
+		masstricht_wings = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { aircraft_manufacturer}
+			picture = "rtCfXlIx-1267"
+		}
+}
+	materiel_manufacturer = {
+		swift_gunz__limburg = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { infantry_equipment_manufacturer}
+			picture = "ZzNcFYyV-1450"
+		}
+		artillerija = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { artillery_manufacturer}
+			picture = "JwfyvORz-1426"
+		}
+		limburg_motors = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { motorized_equipment_manufacturer}
+			picture = "HDRnWNYT-1480"
+		}
+}
+	industrial_concern = {
+		limburg_industrial_concern = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { industrial_concern}
+			picture = "LwAaIuQV-1469"
+		}
+		masstricht_refineries = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { refinery_concern}
+			picture = "IkXAORBw-1532"
+		}
+		limburg_electronics = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { electronics_concern}
+			picture = "UVfOCeqs-1449"
+		}
+}
+	theorist = {
+		rabb_domonikk = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { military_theorist}
+			ledger = army
+			picture = "HynAGBdQ-600990"
+		}
+		olaaf_burleex = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { air_warfare_theorist}
+			ledger = air
+			picture = "ZEfIvBsQ-600992"
+		}
+}
+	army_chief = {
+		kaanta_gadill = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_chief_offensive_2}
+			picture = "fkNqKXLe-600983"
+		}
+		verrta_zup = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_chief_defensive_2}
+			picture = "iJqnNHty-600984"
+		}
+}
+	navy_chief = {
+}
+	air_chief = {
+		ruudolv_heizz = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { air_chief_reform_2}
+			picture = "WVBQKINS-600985"
+		}
+}
+	high_command = {
+		lidderp_voor = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_infantry_2}
+			ledger = army
+			picture = "WkjCFsuv-600993"
+		}
+		paazer_blikreeg = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_armored_3}
+			ledger = army
+			picture = "fKEQhMkl-600998"
+		}
+		fillip_heerdort = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_regrouping_2}
+			ledger = army
+			picture = "gwMUEXLu-601004"
+		}
+		hodrick_voort = {
+			allowed = {
+				tag = LIM
+			}
+			traits = { army_logistics_2}
+			ledger = army
+			picture = "PgACFjQY-601006"
+		}
+}
+}
